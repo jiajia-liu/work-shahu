@@ -1,0 +1,20 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  color:#000;
+}
+li{
+  list-style: none;
+}
+#app{
+  min-width: 1280px;
+  min-height:969px;
+}
+
+/*
+
+*/
